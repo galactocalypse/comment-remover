@@ -1,0 +1,11 @@
+{
+  "name": "comment-remover",
+  "version": "0.0.0",
+  "description": "Removes the first block comment from files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "galactocalypse",
+  "license": "ISC"
+}
